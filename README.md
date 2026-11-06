@@ -3,7 +3,7 @@
 
 A 4-page Power BI report that analyses a trucking company's operations from 2022 to 2024. It covers revenue, drivers and fleet, routes and customers, and fuel, maintenance and safety. Built as my TS Academy capstone project.
 
-![All dashboards](01-executive-overview.png)
+![All dashboards](all-dashboards.png)
 
 ## Business Problem
 A logistics company needs one view of how it makes money and where it loses it. This report answers eight questions: driver performance, route profitability, fleet utilization, maintenance, fuel efficiency, customer analysis, safety, and seasonal patterns.
