@@ -3,7 +3,7 @@
 
 A 4-page Power BI report that analyses a trucking company's operations from 2022 to 2024. It covers revenue, drivers and fleet, routes and customers, and fuel, maintenance and safety. Built as my TS Academy capstone project.
 
-![All dashboards](images/all-dashboards.png)
+![All dashboards](01-executive-overview.png)
 
 ## Business Problem
 A logistics company needs one view of how it makes money and where it loses it. This report answers eight questions: driver performance, route profitability, fleet utilization, maintenance, fuel efficiency, customer analysis, safety, and seasonal patterns.
@@ -35,21 +35,21 @@ Total Revenue, Total Loads, Total Miles, Fleet MPG, Revenue per Mile, Fuel Cost,
 ## Dashboards
 
 ### 1. Executive Overview
-![Executive Overview](images/01-executive-overview.png)
+![Executive Overview](01-executive-overview.png)
 
 - Revenue is flat at about $99M a year (-1.0% in 2023, +0.9% in 2024), so growth has stalled.
 - Dedicated bookings bring in 49.6% of revenue, while Spot and Contract each bring about 25%. Automotive is the top freight type (20.8%).
 - On-time delivery is only 44.6%, while margin after fuel is 68.0%. Profit per load is healthy, but delivery times are being missed.
 
 ### 2. Driver & Fleet Performance
-![Driver and Fleet](images/02-driver-fleet.png)
+![Driver and Fleet](02-driver-fleet.png)
 
 - All 124 active drivers earn between $2.0M and $2.6M, and the top 10 sit within $2.51M to $2.63M. No single driver stands out.
 - On-time delivery is 44% to 45% at every experience level. Individual drivers range from 37.3% to 50.2%.
 - Fleet utilization averages 81.6% with no real trend. Every truck make earns $3.16M to $3.20M per truck, and MPG varies only between 6.38 and 6.54 across drivers.
 
 ### 3. Routes & Customers
-![Routes and Customers](images/03-routes-customers.png)
+![Routes and Customers](03-routes-customers.png)
 
 - Routes over 1,500 miles bring in $200.4M (67% of revenue) at a 79.4% margin after fuel. Medium routes make 51.1%.
 - Five short routes lose money after fuel (-80%), led by New York to Philadelphia, Portland to Seattle and Las Vegas to Los Angeles. Some of this may come from the data, because fuel purchases per trip do not scale with distance.
