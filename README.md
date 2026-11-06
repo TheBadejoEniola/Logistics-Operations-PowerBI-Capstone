@@ -56,7 +56,7 @@ Total Revenue, Total Loads, Total Miles, Fleet MPG, Revenue per Mile, Fuel Cost,
 - Revenue is spread across 200 customers, each worth $1.2M to $1.8M. The top 10 customers are only 5.7% of revenue, so concentration risk is low.
 
 ### 4. Fuel, Maintenance & Safety
-![Fuel, Maintenance and Safety](images/04-fuel-maintenance-safety.png)
+![Fuel, Maintenance and Safety](04-fuel-maintenance-safety.png)
 
 - Fuel is the biggest cost at $95.6M ($3.90 per gallon). The price fell from $4.20 (2022) to $3.85 (2023) and $3.65 (2024), and annual fuel spend dropped from $34.4M to $30.1M.
 - Maintenance cost and downtime rise together across trucks (correlation 0.82). The costliest trucks reach about $90K and over 1,100 hours of downtime.
